@@ -58,6 +58,7 @@ En futuros proyectos, planeamos seguir perfeccionando nuestras habilidades con J
 ## Autor
 
 - GitHub - [William Lupaca Ticona](https://github.com/PunoBootcamper)
+- Github - [Augusto Perales Guevara](https://github.com/AEperalesguevara)
 
 ## Agradecimientos
 
