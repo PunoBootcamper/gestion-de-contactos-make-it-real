@@ -32,9 +32,17 @@ function agregarElemento() {
 
 function actualizarLista() {
   const nuevo = inputNombre.value.trim();
-  if (nuevo) {
-    const nuevoElemento = agregarElemento(nuevo);
+  
+  // Verificar si el nombre ya existe en la lista
+  const existe = Array.from(lista.children).some((item) => {
+    return item.querySelector("span").textContent.toLowerCase() === nuevo.toLowerCase();
+  });
+
+  if (nuevo && !existe) {
+    const nuevoElemento = agregarElemento();
     lista.appendChild(nuevoElemento);
     inputNombre.value = "";
+  } else if (existe) {
+    alert("Este contacto ya existe en la lista.");
   }
 }
