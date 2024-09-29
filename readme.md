@@ -30,8 +30,7 @@ Los usuarios deben ser capaces de:
 
 ### Capturas de Pantalla
 
-![Captura de Pantalla](./public/screenshot/screenshot.png)
-![Captura de Pantalla Móvil](./public/screenshot/mobile-screenshot.png)
+![Captura de Pantalla](./img/desktop.png)
 
 ## Mi Proceso
 
