@@ -2,6 +2,8 @@
 
 Esta es una solución para la gestión de contactos utilizando JavaScript y manipulación del DOM, desarrollada durante el curso de Make It Real.
 
+En este [enlace](https://punobootcamper.github.io/gestion-de-contactos-make-it-real/) se puede ver el resultado-
+
 ## Tabla de contenidos
 
 - [Descripción General](#descripción-general)
